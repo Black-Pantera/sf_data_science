@@ -2,8 +2,8 @@
 
 ## Оглавление
 * [1. Описание проекта](https://github.com/Black-Pantera/sf_data_science/tree/master/project_0/README.md#Описание-проекта)
-* [2. Какое кейс решаем?](https://github.com/Black-Pantera/sf_data_science/tree/master/project_0/README.md#Какое-кейс-решаем)
-* [3. Краткая информация о данных]()
+* [2. Какое кейс решаем?](https://github.com/Black-Pantera/sf_data_science/tree/master/project_0/README.md#Какой-кейс-решаем)
+* [3. Краткая информация о данных](https://github.com/Black-Pantera/sf_data_science/tree/master/project_0/README.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом]()
 * [5. Результат](____)
 * [6. Вывода](______)
@@ -13,7 +13,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/Black-Pantera/sf_data_science/tree/master/project_0/README.md#Оглавление)
 
-### Какое кейс решаем?
+### Какой кейс решаем?
 Нужно написать программу, которая угадывает число попыток
 
 **Условия соревнования:**
